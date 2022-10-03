@@ -1,0 +1,2 @@
+N = bin(int(input()))
+
